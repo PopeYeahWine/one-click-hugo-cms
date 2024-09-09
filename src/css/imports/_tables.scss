@@ -4,12 +4,13 @@ table
   overflow: hidden;
 }
 
-td, th {
-  padding: $spacing-medium;
+table th,
+table td {
+    border: 1px solid var(--grey-3);
 }
 
-th:not(:first-child), td:not(:first-child) {
-  text-align: right;
+td, th {
+  padding: $spacing-medium;
 }
 
 th {
@@ -21,7 +22,7 @@ th {
   }
 }
 
-tr th {
+tr th, tr td {
   text-align: center;
 }
 
