@@ -9,6 +9,7 @@ td, th {
   padding: 2px;
   border: 1px solid var(--border-color);
   text-align: center;
+  vertical-align: middle;
 }
 
 th {
@@ -19,6 +20,10 @@ th {
 
 tr th {
   text-align: center;
+}
+
+tr td {
+  font-size: 0.75rem;
 }
 
 th {
