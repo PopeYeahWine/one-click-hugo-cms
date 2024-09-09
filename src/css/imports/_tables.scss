@@ -2,15 +2,13 @@ table
 {
   border-radius: var(--border-radius);
   overflow: hidden;
+  border: 1px solid var(--border-color);
 }
 
 td, th {
   padding: $spacing-medium;
-  border: 1px solid #ccc;
-}
-
-th:not(:first-child), td:not(:first-child) {
-  text-align: right;
+  border: 1px solid var(--border-color);
+  text-align: center;
 }
 
 th {
@@ -24,6 +22,10 @@ th {
 
 tr th {
   text-align: center;
+}
+
+th {
+  background-color: var(--background-color-header);
 }
 
 tbody tr:nth-child(even) {
