@@ -2,7 +2,7 @@
 title: "Château Bellefont-Belcier: Un Bijou de Saint-Émilion Grand Cru"
 date: 2024-09-08
 description: "Découvrez le Château Bellefont-Belcier, un vignoble emblématique de Saint-Émilion Grand Cru, connu pour ses vins rouges exceptionnels qui incarnent la parfaite harmonie entre tradition et modernité."
-image: Château Raymond-Lafon 2014.jpg
+image: Château Mangot 2019.jpg
 draft: false
 tags: ["Saint-Émilion", "vin rouge", "dégustation"]
 categories: ["Vins de Bordeaux"]
