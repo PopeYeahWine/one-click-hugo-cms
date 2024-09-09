@@ -43,9 +43,5 @@ Ce vin s'harmonise à merveille avec des plats riches et savoureux. Il sera le c
 | --- | --- | --- | --- | --- |
 | Château Bellefont-Belcier | Non spécifié | Saint-Émilion Grand Cru | 14% vol | 2035 |
 
-| Cuvée                     | Millésime      | Appellation             | Degré   | À boire jusqu'en |
-|---------------------------|----------------|-------------------------|---------|------------------|
-| Château Bellefont-Belcier | Non spécifié   | Saint-Émilion Grand Cru | 14% vol | 2035             |
-
 
 * * *
