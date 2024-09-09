@@ -10,3 +10,12 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+    [markup.goldmark.extensions]
+      table = true
